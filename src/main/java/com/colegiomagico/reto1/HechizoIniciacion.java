@@ -6,7 +6,7 @@ package com.colegiomagico.reto1;
 public class HechizoIniciacion {
 
     public static String invocar() {
-        return ""; // TODO: Cambia esto
+        return "Ha sido invocado el estudiante andres valencia y su maestro juan jose listos para la batalla";
     }
 
     public static void main(String[] args) {
