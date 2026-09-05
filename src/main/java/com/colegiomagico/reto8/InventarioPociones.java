@@ -1,7 +1,7 @@
 package com.colegiomagico.reto8;
 
 /**
- * Filtra la lista de ingredientes devolviendo solo aquellos que empiezan con 'A'.
+ * Filtra la lista de ingredientes devolviendo solo aquellos que empiezan con 'A'g.
  */
 public class InventarioPociones {
 
