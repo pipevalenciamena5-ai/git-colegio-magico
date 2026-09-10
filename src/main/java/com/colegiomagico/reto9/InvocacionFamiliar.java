@@ -1,7 +1,7 @@
 package com.colegiomagico.reto9;
 
 /**
- * Retorna una cadena formateada: 'Familiar: [tipo] llamado [nombre]'.
+ * Retorna una cadena formateada: 'Familiar: [tipo] llamado [nombre]'kd.
  */
 public class InvocacionFamiliar {
 
